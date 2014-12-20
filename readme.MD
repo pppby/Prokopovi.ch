@@ -1,0 +1,1 @@
+Second edition of Prokopovi.ch currency exchange platform
